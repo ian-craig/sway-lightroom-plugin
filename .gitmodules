@@ -1,0 +1,3 @@
+[submodule "lua-oauth"]
+	path = lua-oauth
+	url = https://github.com/DracoBlue/lua-oauth.git
